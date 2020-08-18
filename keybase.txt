@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/disrel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://0xdisrel.github.io
+  * I am disrel (https://keybase.io/disrel) on keybase.
+  * I have a public key with fingerprint D460 9C72 F794 E1B8 D301  242A 504E A96A 85B3 0384
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010154200e4d242503da58e2b54ae40e663e55d29c65389c5dac0d08c8fec28a74d20a",
+      "fingerprint": "d4609c72f794e1b8d301242a504ea96a85b30384",
+      "host": "keybase.io",
+      "key_id": "504ea96a85b30384",
+      "kid": "010154200e4d242503da58e2b54ae40e663e55d29c65389c5dac0d08c8fec28a74d20a",
+      "uid": "29b65cf20ad3f97172a1ccab232a7719",
+      "username": "disrel"
+    },
+    "service": {
+      "hostname": "0xdisrel.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1597762100,
+  "expire_in": 157680000,
+  "prev": "fa450e1beaefb9941778b8f76e0444c707bfacf5fafcb330189bfb7233ef4028",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBRRGN4ti1wSe0hIkSWmNCi1MzNnblt0kzIwshtklGznnDmzO2mz
+6+xo6iZBBUa9mZFd8CHMwGv1EAVGahKyXS0wi+5ZWEHsQw9G+9AZs7ceezqc7/++
+j+/7zxnOmO3xedf3N16avLfxsPf+4IUaT3DVVxjncESv5wJxrpJOH7RKpzEnWGnq
+XIADPOAlKABAoS5AQQKijiSVCliCiEJAZVmkkqQLGpElUdWIpCMCdKAS1aBEUJHC
+ZABxBZxhWiFqR23TcpitDmWgEUUwFA1SHqu6CHhmjyQAKdJkpEpYBKIKmTAcibkK
+Fg6jGC0yIwxjl+B0vH/w/3Pummk7QcOyRAwG6aKhKbwiIJ4QhAVRQIrCay4xRm0L
+HaRuOzNm0yqusYBjWK1JqLtWt8fMHNT9YRSFTCdcg/90itoRJ0IiVWwedpxoLODq
+nfqoKzhEcXDGKohNS2e7ZIpaasfMiMUFeMYkjul685KmKLLAA1DA0bqoadOg6TIk
+RVYBcNGoTWuZpYGgBNjqKaIG1jTIK4qKVUORKYAQEgUo2EDEkAxkECyy51E1bGBF
+EEVqQCConFuu2opwAchiohCzjJkhCzk1NuUahwb2pXm8Ps/cObPcP+bxpS/4+/Oa
+8uZ5bi/uK4mXjWemhMcPt/8YPXVl8+uMwda0zc+jbd7uav/VzPTCu7dSTVlZqGLi
++qsO7D9zrITrPTDJnUgsvdI09qvzxspS/83BjjXLModW1Lf0/Gy5ps4vzj9SJ39u
+n3ybltP1pWuDGI+PbGnvKz4abmj2a2u/5iS1gp3JRO1U8ewq2r/r2M+R8rHsl++b
+yeie1KclC5MXX1TMn7gz5XtvfgiF98dLz17OS2Tv2dDrJLsf+Hypbd9HFr1bPpw/
+QIbPJz9+O+3NfWSNDq6b8p/seXNu8mJidUfbu+bWwsSTZ935z44vMG/lBjpH8Cb+
+aSqr2m7ZAc+MN1TsLt/qtfaW8Tm/AVcWRRc=
+=jTVw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/disrel
+
+==================================================================
