@@ -1,3 +1,3 @@
-# 0xdisrel.github.io
+# disrel.github.io
 
 Work in progress.
